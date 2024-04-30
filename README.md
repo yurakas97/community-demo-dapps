@@ -50,7 +50,7 @@ Add your repository as a git submodule:
 
 ## Step 3: Create a Pull Request 
 
-Once you have added both a reference and project to the repository **Submit a pull request** with a detailed description of your app.
+Once you have added both a reference and project to the repository **Submit a pull request** with a detailed description of your app...
 
 ## 📚 Documentation
 
